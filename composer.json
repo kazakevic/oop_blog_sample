@@ -1,0 +1,16 @@
+{
+    "name": "darjus/blog",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "you@example.com"
+        }
+    ],
+    "require": {},
+    
+    "autoload": {
+        "psr-4": {
+            "Models\\" : "src"
+        }
+    }
+}
